@@ -1,0 +1,14 @@
+body {
+	font: 60%/1.45em "Helvetica Neue", HelveticaNeue, Verdana, Arial, Helvetica, sans-serif;
+	margin: -5;
+	padding: -5;
+	color: #333;
+	background-color: #fff;
+}
+
+
+div.container {
+	min-width: 960px;
+	margin: 0 0;
+}
+
